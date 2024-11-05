@@ -1,1 +1,4 @@
 # lottery
+AAAAAAAA
+BBBBBBBB
+CCCCCCCC
